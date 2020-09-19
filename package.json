@@ -25,7 +25,7 @@
     ],
     "license": "MIT",
     "main": "./source/index.js",
-    "name": "jsonwebkey",
+    "name": "jwk-schema",
     "types": "./source/index.d.ts",
     "version": "1.0.0",
     "devDependencies": {
