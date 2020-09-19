@@ -1,0 +1,35 @@
+{
+    "bugs": {
+        "email": "jonathan@wilbur.space"
+    },
+    "contributors": [
+        {
+            "email": "jonathan@wilbur.space",
+            "name": "Jonathan M. Wilbur",
+            "url": "https://github.com/JonathanWilbur"
+        }
+    ],
+    "description": "JSON Schema and TypeScript Types for JSON Web Keys, as defined IETF RFC 7517.",
+    "files": [
+        "source/**/*"
+    ],
+    "keywords": [
+        "json",
+        "web",
+        "key",
+        "jsonwebkey",
+        "jwk",
+        "schema",
+        "interfaces",
+        "types"
+    ],
+    "license": "MIT",
+    "main": "./source/index.js",
+    "name": "jsonwebkey",
+    "types": "./source/index.d.ts",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@types/json-schema": "^7.0.6",
+        "json-schema-to-typescript": "^9.1.1"
+    }
+}
