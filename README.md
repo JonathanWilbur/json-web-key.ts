@@ -1,4 +1,4 @@
-# OpenID Provider Metadata Schema and Types
+# JSON Web Key JSON Schema and TypeScript Types
 
 * Author: [Jonathan M. Wilbur](https://github.com/JonathanWilbur) <[jonathan@wilbur.space](mailto:jonathan@wilbur.space)>
 * Copyright Year: 2020
